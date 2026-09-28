@@ -41,15 +41,6 @@ public class PantryFragment extends Fragment implements PantryAdapter.OnPantryIt
     private PantryAdapter pantryAdapter;
     private List<PantryItem> pantryItems = new ArrayList<>();
 
-    private final ActivityResultLauncher<Intent> addEditLauncher = registerForActivityResult(
-            new ActivityResultContracts.StartActivityForResult(),
-            result -> {
-                if (result.getResultCode() == Activity.RESULT_OK) {
-                    loadPantryItems();
-                }
-            }
-    );
-
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -67,7 +58,7 @@ public class PantryFragment extends Fragment implements PantryAdapter.OnPantryIt
 
         fabAdd.setOnClickListener(v -> {
             Intent intent = new Intent(getContext(), AddEditIngredientActivity.class);
-            addEditLauncher.launch(intent);
+            startActivity(intent);
         });
 
         loadPantryItems();
@@ -101,7 +92,7 @@ public class PantryFragment extends Fragment implements PantryAdapter.OnPantryIt
     public void onEdit(PantryItem item) {
         Intent intent = new Intent(getContext(), AddEditIngredientActivity.class);
         intent.putExtra(AddEditIngredientActivity.EXTRA_INGREDIENT_ID, item.getId());
-        addEditLauncher.launch(intent);
+        startActivity(intent);
     }
 
     @Override
