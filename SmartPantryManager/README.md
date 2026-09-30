@@ -40,6 +40,48 @@ Smart Pantry Manager is a native Android application built entirely in **Java** 
 
 ---
 
+## 🍽️ Pre-Loaded Recipe Database (20 Recipes)
+
+The app ships with **20 recipes** seeded automatically on first launch. The strict matching algorithm will only suggest a recipe when you have **every ingredient listed** in sufficient quantity.
+
+| # | Recipe | Required Ingredients |
+|---|--------|----------------------|
+| 1 | 🍳 **Cheese Omelette** | 2 Eggs, 50g Cheese, 1 Onion |
+| 2 | 🍞 **Tomato Toast** | 2 slices Bread, 1 Tomato, 30g Cheese |
+| 3 | 🥪 **Vegetable Sandwich** | 2 slices Bread, 1 Tomato, 1 Onion, 1 Cucumber |
+| 4 | 🍚 **Egg Fried Rice** | 200g Rice, 2 Eggs, 1 Onion, 2 tbsp Soy Sauce |
+| 5 | 🧄 **Garlic Bread** | 4 slices Bread, 20g Butter, 2 Garlic |
+| 6 | 🍝 **Tomato Pasta** | 150g Pasta, 2 Tomatoes, 2 Garlic, 1 tbsp Olive Oil |
+| 7 | 🥦 **Vegetable Pasta** | 150g Pasta, 1 Tomato, 1 Onion, 1 Bell Pepper |
+| 8 | 🧀 **Cheese Sandwich** | 2 slices Bread, 50g Cheese, 10g Butter |
+| 9 | 🥚 **French Toast** | 2 slices Bread, 1 Egg, 50ml Milk, 1 tbsp Sugar |
+| 10 | 🥚 **Egg Sandwich** | 2 slices Bread, 2 Eggs, 1 Onion |
+| 11 | 🥔 **Potato Omelette** | 2 Eggs, 1 Potato, 1 Onion |
+| 12 | 🍅 **Tomato Egg Scramble** | 2 Eggs, 1 Tomato, 1 Onion |
+| 13 | 🍜 **Garlic Noodles** | 150g Noodles, 3 Garlic, 2 tbsp Soy Sauce, 1 tbsp Butter |
+| 14 | 🥕 **Vegetable Fried Rice** | 200g Rice, 1 Carrot, 1 Onion, 1 Bell Pepper |
+| 15 | 🧀 **Cheese Toast** | 2 slices Bread, 40g Cheese |
+| 16 | 🥪 **Potato Sandwich** | 2 slices Bread, 1 Potato, 1 Onion |
+| 17 | 🍞 **Egg Toast** | 2 slices Bread, 2 Eggs, 10g Butter |
+| 18 | 🥗 **Tomato Salad** | 2 Tomatoes, 1 Cucumber, 1 Onion, 1 tbsp Olive Oil |
+| 19 | 🥚 **Vegetable Omelette** | 2 Eggs, 1 Tomato, 1 Onion, 1 Bell Pepper |
+| 20 | 🧄 **Garlic Pasta** | 150g Pasta, 4 Garlic, 2 tbsp Olive Oil, 20g Cheese |
+
+### 🛒 Pantry Quick-Start Tips
+
+To see your **first recipes immediately**, try adding these ingredients to your pantry:
+
+```
+Bread   → 4 slices     — unlocks: Cheese Toast, Egg Toast, Garlic Bread, Cheese Sandwich…
+Cheese  → 100g         — unlocks: Cheese Toast, Cheese Omelette, Cheese Sandwich…
+Egg     → 4 pieces     — unlocks: Cheese Omelette, French Toast, Egg Sandwich…
+Tomato  → 2 pieces     — unlocks: Tomato Salad, Tomato Toast (with Bread + Cheese)…
+Onion   → 2 pieces
+Garlic  → 4 pieces
+```
+
+---
+
 ## 🚀 Setup & Installation Instructions
 
 1. **Clone the Repository**:
