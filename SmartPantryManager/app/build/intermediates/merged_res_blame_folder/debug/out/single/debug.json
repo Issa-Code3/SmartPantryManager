@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/layout_item_recipe.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/layout/item_recipe.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/layout_activity_add_edit_ingredient.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/layout/activity_add_edit_ingredient.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/layout_activity_recipe_detail.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/layout/activity_recipe_detail.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/drawable_ic_settings.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/menu_bottom_navigation_menu.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/layout_item_pantry.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/layout/item_pantry.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/drawable_ic_add.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-merged_res-29:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.smartpantry.app-main-31:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/layout_fragment_pantry.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/layout/fragment_pantry.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.smartpantry.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/drawable_ic_delete.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/layout_activity_settings.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/drawable_ic_pantry.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/drawable/ic_pantry.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/drawable_ic_edit.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-merged_res-29:/layout_activity_settings.xml.flat",
+        "source": "com.example.smartpantry.app-main-31:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/drawable_ic_recipe.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/drawable/ic_recipe.xml"
+    },
+    {
+        "merged": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-merged_res-29:/layout_fragment_recipes.xml.flat",
+        "source": "/Users/devsmac/.gradle/daemon/8.0.1/com.example.smartpantry.app-main-31:/layout/fragment_recipes.xml"
+    }
+]

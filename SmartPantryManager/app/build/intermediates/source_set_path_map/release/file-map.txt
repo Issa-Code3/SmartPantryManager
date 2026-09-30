@@ -1,0 +1,32 @@
+com.example.smartpantry.app-recyclerview-1.3.1-0 /Users/devsmac/.gradle/caches/transforms-3/02d25db43f3f8f30a82e27c813724b12/transformed/recyclerview-1.3.1/res
+com.example.smartpantry.app-jetified-savedstate-1.2.0-1 /Users/devsmac/.gradle/caches/transforms-3/0a9ec22d34214cb2b6a92691a0d569cc/transformed/jetified-savedstate-1.2.0/res
+com.example.smartpantry.app-coordinatorlayout-1.1.0-2 /Users/devsmac/.gradle/caches/transforms-3/100c3621101ce07efb6496c726bc1fe1/transformed/coordinatorlayout-1.1.0/res
+com.example.smartpantry.app-jetified-viewpager2-1.1.0-beta02-3 /Users/devsmac/.gradle/caches/transforms-3/133fcf46c82af1f7fc63837c60f6d2e8/transformed/jetified-viewpager2-1.1.0-beta02/res
+com.example.smartpantry.app-jetified-annotation-experimental-1.3.0-4 /Users/devsmac/.gradle/caches/transforms-3/2b383b2a0bd8d75f765d9cfb90e1f8bd/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.smartpantry.app-appcompat-1.6.1-5 /Users/devsmac/.gradle/caches/transforms-3/35c1055fff5fe84cb2712d5da5b17d02/transformed/appcompat-1.6.1/res
+com.example.smartpantry.app-jetified-emoji2-1.2.0-6 /Users/devsmac/.gradle/caches/transforms-3/5c8c70798f768a4b9a68d58f1e14f0e5/transformed/jetified-emoji2-1.2.0/res
+com.example.smartpantry.app-constraintlayout-2.1.4-7 /Users/devsmac/.gradle/caches/transforms-3/66de5a718434fdc079a373c44c85c048/transformed/constraintlayout-2.1.4/res
+com.example.smartpantry.app-jetified-appcompat-resources-1.6.1-8 /Users/devsmac/.gradle/caches/transforms-3/6fba7b1cb3b549f7fef3926af8e1277a/transformed/jetified-appcompat-resources-1.6.1/res
+com.example.smartpantry.app-jetified-core-ktx-1.9.0-9 /Users/devsmac/.gradle/caches/transforms-3/78bbd78e228d1e27224bcc966897fab3/transformed/jetified-core-ktx-1.9.0/res
+com.example.smartpantry.app-jetified-emoji2-views-helper-1.2.0-10 /Users/devsmac/.gradle/caches/transforms-3/a57d711eecc9117a0745912f1c9a0540/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.example.smartpantry.app-jetified-lifecycle-process-2.4.1-11 /Users/devsmac/.gradle/caches/transforms-3/a7a72921bfef22d9f3f524335dcf1856/transformed/jetified-lifecycle-process-2.4.1/res
+com.example.smartpantry.app-jetified-customview-poolingcontainer-1.0.0-12 /Users/devsmac/.gradle/caches/transforms-3/afc39faa453a929c0bbffd5a29fac946/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.example.smartpantry.app-lifecycle-livedata-core-2.5.1-13 /Users/devsmac/.gradle/caches/transforms-3/b37ccb1d4e6aba59efa5b00b902c51a4/transformed/lifecycle-livedata-core-2.5.1/res
+com.example.smartpantry.app-material-1.9.0-14 /Users/devsmac/.gradle/caches/transforms-3/ba53665616cfb3ca7337afe3c8066181/transformed/material-1.9.0/res
+com.example.smartpantry.app-drawerlayout-1.1.1-15 /Users/devsmac/.gradle/caches/transforms-3/bc50fa4262f6ced92c4f4f60430e8f15/transformed/drawerlayout-1.1.1/res
+com.example.smartpantry.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-16 /Users/devsmac/.gradle/caches/transforms-3/cd7c281809c696a67227405098be5c3e/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/res
+com.example.smartpantry.app-jetified-startup-runtime-1.1.1-17 /Users/devsmac/.gradle/caches/transforms-3/d76b4d0f417f113b8ae10cef6e6c6577/transformed/jetified-startup-runtime-1.1.1/res
+com.example.smartpantry.app-fragment-1.3.6-18 /Users/devsmac/.gradle/caches/transforms-3/dca1e7b18790f2d4f6fe6ec182afe3bc/transformed/fragment-1.3.6/res
+com.example.smartpantry.app-core-1.9.0-19 /Users/devsmac/.gradle/caches/transforms-3/df4b8b49b840136d1ce470ffed5e2774/transformed/core-1.9.0/res
+com.example.smartpantry.app-lifecycle-runtime-2.5.1-20 /Users/devsmac/.gradle/caches/transforms-3/e43e73f58355b3bc908321f0068e602c/transformed/lifecycle-runtime-2.5.1/res
+com.example.smartpantry.app-cardview-1.0.0-21 /Users/devsmac/.gradle/caches/transforms-3/e55cfe0e5b51677515bf9f22eb8955ff/transformed/cardview-1.0.0/res
+com.example.smartpantry.app-transition-1.2.0-22 /Users/devsmac/.gradle/caches/transforms-3/ef259d7ae48c562a8c1056c4367bc740/transformed/transition-1.2.0/res
+com.example.smartpantry.app-jetified-activity-1.6.0-23 /Users/devsmac/.gradle/caches/transforms-3/f18db69cda2f2d175aa07828d2de49c9/transformed/jetified-activity-1.6.0/res
+com.example.smartpantry.app-lifecycle-viewmodel-2.5.1-24 /Users/devsmac/.gradle/caches/transforms-3/f4b914d3bef868d691f108f5f683fc01/transformed/lifecycle-viewmodel-2.5.1/res
+com.example.smartpantry.app-pngs-25 /Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/build/generated/res/pngs/release
+com.example.smartpantry.app-resValues-26 /Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/build/generated/res/resValues/release
+com.example.smartpantry.app-packageReleaseResources-27 /Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.smartpantry.app-packageReleaseResources-28 /Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.smartpantry.app-merged_res-29 /Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/build/intermediates/merged_res/release
+com.example.smartpantry.app-main-30 /Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/res
+com.example.smartpantry.app-release-31 /Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/release/res

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.smartpantry.RecipeMatcherTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-09-29T18:02:31" hostname="Deveshs-MacBook-Air.local" time="0.012">
+  <properties/>
+  <testcase name="testStrictMatch_EmptyPantry_ReturnsFalse" classname="com.example.smartpantry.RecipeMatcherTest" time="0.004"/>
+  <testcase name="testNormalization_CaseAndPlural_ReturnsTrue" classname="com.example.smartpantry.RecipeMatcherTest" time="0.0"/>
+  <testcase name="testStrictMatch_MoreThanRequired_ReturnsTrue" classname="com.example.smartpantry.RecipeMatcherTest" time="0.001"/>
+  <testcase name="testStrictMatch_FullMatch_ReturnsTrue" classname="com.example.smartpantry.RecipeMatcherTest" time="0.0"/>
+  <testcase name="testIngredientNormalizer" classname="com.example.smartpantry.RecipeMatcherTest" time="0.0"/>
+  <testcase name="testStrictMatch_MissingIngredient_ReturnsFalse" classname="com.example.smartpantry.RecipeMatcherTest" time="0.001"/>
+  <testcase name="testUnitConversion_KilogramToGram_ReturnsTrue" classname="com.example.smartpantry.RecipeMatcherTest" time="0.0"/>
+  <testcase name="testValidationUtils" classname="com.example.smartpantry.RecipeMatcherTest" time="0.005"/>
+  <testcase name="testStrictMatch_ExactQuantity_ReturnsTrue" classname="com.example.smartpantry.RecipeMatcherTest" time="0.0"/>
+  <testcase name="testStrictMatch_InsufficientQuantity_ReturnsFalse" classname="com.example.smartpantry.RecipeMatcherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

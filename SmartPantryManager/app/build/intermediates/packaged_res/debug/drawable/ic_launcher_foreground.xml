@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield / Plate Glow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,18 C34.12,18 18,34.12 18,54 C18,73.88 34.12,90 54,90 C73.88,90 90,73.88 90,54 C90,34.12 73.88,18 54,18 Z"
+        android:fillAlpha="0.2"/>
+
+    <!-- Shopping Basket / Pantry Box Container -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,46 L80,46 L74,78 C73.5,80.5 71.3,82.5 68.7,82.5 L39.3,82.5 C36.7,82.5 34.5,80.5 34,78 L28,46 Z"/>
+
+    <!-- Pantry Basket Grid Lines -->
+    <path
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M38,46 L38,80 M54,46 L54,80 M70,46 L70,80 M31,58 L77,58 M33,70 L75,70"/>
+
+    <!-- Handle of Pantry Basket -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M38,46 C38,34 70,34 70,46"/>
+
+    <!-- Fresh Tomato on top left -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M40,36 C40,30.5 44.5,26 50,26 C55.5,26 60,30.5 60,36 C60,41.5 55.5,46 50,46 C44.5,46 40,41.5 40,36 Z"/>
+
+    <!-- Tomato Leaf -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M48,26 C46,22 52,20 54,23 C56,20 62,22 60,26 Z"/>
+
+    <!-- Wheat / Bread Loaf on right -->
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M60,32 C60,25 72,25 72,32 L72,46 L60,46 Z"/>
+</vector>

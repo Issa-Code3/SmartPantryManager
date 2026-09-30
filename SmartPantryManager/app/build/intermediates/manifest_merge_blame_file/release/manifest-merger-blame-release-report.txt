@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.smartpantry"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] /Users/devsmac/.gradle/caches/transforms-3/df4b8b49b840136d1ce470ffed5e2774/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.smartpantry.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] /Users/devsmac/.gradle/caches/transforms-3/df4b8b49b840136d1ce470ffed5e2774/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] /Users/devsmac/.gradle/caches/transforms-3/df4b8b49b840136d1ce470ffed5e2774/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.smartpantry.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] /Users/devsmac/.gradle/caches/transforms-3/df4b8b49b840136d1ce470ffed5e2774/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /Users/devsmac/.gradle/caches/transforms-3/df4b8b49b840136d1ce470ffed5e2774/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:4:5-36:19
+18        android:allowBackup="true"
+18-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:5:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] /Users/devsmac/.gradle/caches/transforms-3/df4b8b49b840136d1ce470ffed5e2774/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:6:9-43
+22        android:label="@string/app_name"
+22-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:7:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:8:9-54
+24        android:supportsRtl="true"
+24-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:9:9-35
+25        android:theme="@style/Theme.SmartPantryManager" >
+25-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:10:9-56
+26        <activity
+26-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:12:9-19:20
+27            android:name="com.example.smartpantry.activities.MainActivity"
+27-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:13:13-52
+28            android:exported="true" >
+28-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:14:13-36
+29            <intent-filter>
+29-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:15:13-18:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:16:17-69
+30-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:16:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:17:17-77
+32-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:17:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:21:9-24:69
+36            android:name="com.example.smartpantry.activities.AddEditIngredientActivity"
+36-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:22:13-65
+37            android:exported="false"
+37-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:23:13-37
+38            android:parentActivityName="com.example.smartpantry.activities.MainActivity" />
+38-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:24:13-66
+39        <activity
+39-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:26:9-29:69
+40            android:name="com.example.smartpantry.activities.RecipeDetailActivity"
+40-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:27:13-60
+41            android:exported="false"
+41-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:28:13-37
+42            android:parentActivityName="com.example.smartpantry.activities.MainActivity" />
+42-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:29:13-66
+43        <activity
+43-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:31:9-34:69
+44            android:name="com.example.smartpantry.activities.SettingsActivity"
+44-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:32:13-56
+45            android:exported="false"
+45-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:33:13-37
+46            android:parentActivityName="com.example.smartpantry.activities.MainActivity" />
+46-->/Users/devsmac/Work Board/Mobile_Application/SmartPantryManager/app/src/main/AndroidManifest.xml:34:13-66
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.2.0] /Users/devsmac/.gradle/caches/transforms-3/5c8c70798f768a4b9a68d58f1e14f0e5/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.2.0] /Users/devsmac/.gradle/caches/transforms-3/5c8c70798f768a4b9a68d58f1e14f0e5/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+50            android:authorities="com.example.smartpantry.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.2.0] /Users/devsmac/.gradle/caches/transforms-3/5c8c70798f768a4b9a68d58f1e14f0e5/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.2.0] /Users/devsmac/.gradle/caches/transforms-3/5c8c70798f768a4b9a68d58f1e14f0e5/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.2.0] /Users/devsmac/.gradle/caches/transforms-3/5c8c70798f768a4b9a68d58f1e14f0e5/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/devsmac/.gradle/caches/transforms-3/5c8c70798f768a4b9a68d58f1e14f0e5/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/devsmac/.gradle/caches/transforms-3/5c8c70798f768a4b9a68d58f1e14f0e5/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/devsmac/.gradle/caches/transforms-3/a7a72921bfef22d9f3f524335dcf1856/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/devsmac/.gradle/caches/transforms-3/a7a72921bfef22d9f3f524335dcf1856/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/devsmac/.gradle/caches/transforms-3/a7a72921bfef22d9f3f524335dcf1856/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>
